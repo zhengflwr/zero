@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\work\\zero\\深入 C# 语言规范系列视频教程\\第02期-C#语言的反编译与代码保护\\ConsoleAppSample\\ConsoleAppSample\\ConsoleAppSample.csproj": {}
+  },
+  "projects": {
+    "D:\\work\\zero\\深入 C# 语言规范系列视频教程\\第02期-C#语言的反编译与代码保护\\ConsoleAppSample\\ClassLibrary1\\ClassLibrary1.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\zero\\深入 C# 语言规范系列视频教程\\第02期-C#语言的反编译与代码保护\\ConsoleAppSample\\ClassLibrary1\\ClassLibrary1.vbproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "D:\\work\\zero\\深入 C# 语言规范系列视频教程\\第02期-C#语言的反编译与代码保护\\ConsoleAppSample\\ClassLibrary1\\ClassLibrary1.vbproj",
+        "packagesPath": "C:\\Users\\ZHENGFL\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\zero\\深入 C# 语言规范系列视频教程\\第02期-C#语言的反编译与代码保护\\ConsoleAppSample\\ClassLibrary1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZHENGFL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\work\\zero\\深入 C# 语言规范系列视频教程\\第02期-C#语言的反编译与代码保护\\ConsoleAppSample\\ConsoleAppSample\\ConsoleAppSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\zero\\深入 C# 语言规范系列视频教程\\第02期-C#语言的反编译与代码保护\\ConsoleAppSample\\ConsoleAppSample\\ConsoleAppSample.csproj",
+        "projectName": "ConsoleAppSample",
+        "projectPath": "D:\\work\\zero\\深入 C# 语言规范系列视频教程\\第02期-C#语言的反编译与代码保护\\ConsoleAppSample\\ConsoleAppSample\\ConsoleAppSample.csproj",
+        "packagesPath": "C:\\Users\\ZHENGFL\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\zero\\深入 C# 语言规范系列视频教程\\第02期-C#语言的反编译与代码保护\\ConsoleAppSample\\ConsoleAppSample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZHENGFL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\work\\zero\\深入 C# 语言规范系列视频教程\\第02期-C#语言的反编译与代码保护\\ConsoleAppSample\\ClassLibrary1\\ClassLibrary1.vbproj": {
+                "projectPath": "D:\\work\\zero\\深入 C# 语言规范系列视频教程\\第02期-C#语言的反编译与代码保护\\ConsoleAppSample\\ClassLibrary1\\ClassLibrary1.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
